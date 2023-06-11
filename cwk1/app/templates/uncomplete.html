@@ -1,0 +1,23 @@
+{% extends "homepage.html" %}
+ {% block content %}
+<h2>Incomplete Assesments</h2>
+{% for item in data %}
+
+    <div><hr>
+         <p class ='Title'>{{item.title}}</p>
+         <p class = 'rest'>Deadline: {{item.deadline}}<br>
+         
+         Module Code: {{item.modulecode}}<br>
+         Status: {{item.status}}<br>
+         {{item.description}}<br>
+         </p>
+         
+         <form action="/incomplete_assessments/{{item.id}}" method="post">
+            <input type="submit" class = "sub" value="Mark As Completed">
+        </form>
+        
+        
+         
+    </div>
+{% endfor %}
+{% endblock %}

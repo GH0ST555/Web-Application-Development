@@ -1,0 +1,17 @@
+{% extends "homepage.html" %}
+ {% block content %}
+<h2>All Assesments</h2>
+{% for item in data %}
+
+    <div class = "all"><hr>
+         <p class ='Title'>{{item.title}}</p>
+         <p class = 'rest'>Deadline: {{item.deadline.strftime('%d-%m-%Y')}}<br>
+         
+         Module Code: {{item.modulecode}}<br>
+         Status: {{item.status}}<br>
+         {{item.description}}<br>
+         </p>
+         
+    </div>
+{% endfor %}
+{% endblock %}

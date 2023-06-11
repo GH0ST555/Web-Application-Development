@@ -1,0 +1,33 @@
+{% extends "homepage.html" %}
+ {% block content %}
+<h2>Create Assesments</h2>
+<style>
+
+</style>
+
+<form action="" method="post" name="create_assesment" id="caf">
+    {{ form.hidden_tag() }}
+    
+       <label>Title</label>
+       <p>{{ form.ttl }}</p>
+    
+       
+    <label>Module Code</label>
+       <p>{{ form.mc }}</p>
+
+
+
+    <label>Deadline</label>
+       <p>{{ form.dline }}
+	</p>
+
+
+
+    <label>Description</label>
+       <p>{{ form.desc }}</p>
+       <input type="submit" class="sub" value="Submit" >
+
+</form>
+
+{% endblock %} 
+
