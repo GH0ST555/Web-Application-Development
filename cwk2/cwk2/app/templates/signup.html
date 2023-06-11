@@ -1,0 +1,37 @@
+
+<html>
+   <head>
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+     <meta name="viewport" content="width=device-width, initial-scale=1" />
+     <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+     <title>Create Account</title>
+   </head>
+   
+   <body class=" text-center">
+    <div align = "center">
+    <form class="form-signin" method = "post" name = "signup" onsubmit=" Validations()" >
+      {{ form.hidden_tag() }}
+      <img class="mb-4" src="https://img.freepik.com/free-vector/shopping-cart-realistic_1284-6011.jpg?w=740&t=st=1671107999~exp=1671108599~hmac=3f6c87c23009cf585f5951223766e727eb056b3e9fb9e66c28335151bc9b922d" alt="" width="72" height="72">
+      <h1 class="h3 mb-3 font-weight-normal">Create Account</h1>
+      <label >Username</label>
+      {{form.uname(class_="form-control") }}
+      <label>Email address</label>
+      <p >{{form.email(class_ ="form-control") }}</p>
+      <label>Password</label>
+      <p name = "password">{{form.pwd(class_ ="form-control") }}</p>
+      <label>Re-Enter Password</label>
+      <p>{{form.cp(class_ = "form-control") }}</p>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Create Account</button>
+      </div>
+      <br>
+    </form>
+    <p>Have An Account? <a href = "/login">Login</a></p>
+  </div>
+  <br>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+   </body>
+   </html>
+   
+   
+
+

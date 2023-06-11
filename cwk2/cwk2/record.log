@@ -1,0 +1,347 @@
+INFO:werkzeug: * Detected change in '/home/cserv1_a/soc_msc/sc21ak/Webdev/cwk2/app/views.py', reloading
+2022-12-15 07:40:52,472 INFO werkzeug MainThread :  * Detected change in '/home/cserv1_a/soc_msc/sc21ak/Webdev/cwk2/app/views.py', reloading
+2022-12-15 08:04:11,696 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 08:04:45,095 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 08:06:14,355 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 08:07:12,624 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 08:07:27,262 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 08:07:27] "GET / HTTP/1.1" 200 -
+2022-12-15 08:07:27,294 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 08:07:27] "GET /static/js/scripts.js HTTP/1.1" 200 -
+2022-12-15 08:07:27,367 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 08:07:27] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 08:07:27,367 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 08:07:27] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 08:07:27,368 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 08:07:27] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 08:07:27,416 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 08:07:27] "[33mGET /assets/favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 08:07:36,253 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 08:07:36] "GET /login HTTP/1.1" 200 -
+2022-12-15 08:07:36,279 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 08:07:36] "GET /static/css/styles.css HTTP/1.1" 200 -
+2022-12-15 08:07:36,280 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 08:07:36] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:07:36,384 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 08:07:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 08:07:44,659 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 08:07:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-12-15 08:07:44,681 INFO app Thread-12 : Info level log
+2022-12-15 08:07:44,712 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 08:07:44] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:07:44,770 INFO werkzeug Thread-13 : 127.0.0.1 - - [15/Dec/2022 08:07:44] "GET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1" 200 -
+2022-12-15 08:07:44,827 INFO werkzeug Thread-14 : 127.0.0.1 - - [15/Dec/2022 08:07:44] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:07:44,845 INFO werkzeug Thread-15 : 127.0.0.1 - - [15/Dec/2022 08:07:44] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:07:44,862 INFO werkzeug Thread-16 : 127.0.0.1 - - [15/Dec/2022 08:07:44] "GET /static/fontawesome-free-6.2.1-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2022-12-15 08:07:44,864 INFO werkzeug Thread-17 : 127.0.0.1 - - [15/Dec/2022 08:07:44] "GET /static/fontawesome-free-6.2.1-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 -
+2022-12-15 08:13:56,493 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 08:14:11,149 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 08:14:11] "GET / HTTP/1.1" 200 -
+2022-12-15 08:14:11,186 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 08:14:11] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:11,188 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 08:14:11] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:11,190 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 08:14:11] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:11,191 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 08:14:11] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:14:11,233 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 08:14:11] "[33mGET /assets/favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 08:14:17,279 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 08:14:17] "[32mGET /login HTTP/1.1[0m" 302 -
+2022-12-15 08:14:17,300 INFO app Thread-8 : Info level log
+2022-12-15 08:14:17,333 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 08:14:17] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:14:17,355 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 08:14:17] "GET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1" 200 -
+2022-12-15 08:14:17,383 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 08:14:17] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:14:17,392 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 08:14:17] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:14:17,415 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 08:14:17] "GET /static/fontawesome-free-6.2.1-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2022-12-15 08:14:17,415 INFO werkzeug Thread-13 : 127.0.0.1 - - [15/Dec/2022 08:14:17] "GET /static/fontawesome-free-6.2.1-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 -
+2022-12-15 08:14:19,649 INFO werkzeug Thread-14 : 127.0.0.1 - - [15/Dec/2022 08:14:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-12-15 08:14:19,652 INFO werkzeug Thread-15 : 127.0.0.1 - - [15/Dec/2022 08:14:19] "GET / HTTP/1.1" 200 -
+2022-12-15 08:14:19,677 INFO werkzeug Thread-16 : 127.0.0.1 - - [15/Dec/2022 08:14:19] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:14:19,677 INFO werkzeug Thread-17 : 127.0.0.1 - - [15/Dec/2022 08:14:19] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:19,678 INFO werkzeug Thread-18 : 127.0.0.1 - - [15/Dec/2022 08:14:19] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:19,679 INFO werkzeug Thread-19 : 127.0.0.1 - - [15/Dec/2022 08:14:19] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:21,510 INFO werkzeug Thread-20 : 127.0.0.1 - - [15/Dec/2022 08:14:21] "GET /login HTTP/1.1" 200 -
+2022-12-15 08:14:21,531 INFO werkzeug Thread-21 : 127.0.0.1 - - [15/Dec/2022 08:14:21] "GET /static/css/styles.css HTTP/1.1" 200 -
+2022-12-15 08:14:21,532 INFO werkzeug Thread-22 : 127.0.0.1 - - [15/Dec/2022 08:14:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:14:23,903 INFO werkzeug Thread-23 : 127.0.0.1 - - [15/Dec/2022 08:14:23] "GET / HTTP/1.1" 200 -
+2022-12-15 08:14:23,913 INFO werkzeug Thread-24 : 127.0.0.1 - - [15/Dec/2022 08:14:23] "GET /static/js/scripts.js HTTP/1.1" 200 -
+2022-12-15 08:14:23,957 INFO werkzeug Thread-25 : 127.0.0.1 - - [15/Dec/2022 08:14:23] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:23,957 INFO werkzeug Thread-26 : 127.0.0.1 - - [15/Dec/2022 08:14:23] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:23,958 INFO werkzeug Thread-27 : 127.0.0.1 - - [15/Dec/2022 08:14:23] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 08:14:42,833 ERROR app Thread-28 : Errorl evel log
+2022-12-15 08:14:42,844 INFO werkzeug Thread-28 : 127.0.0.1 - - [15/Dec/2022 08:14:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-12-15 08:14:42,848 INFO werkzeug Thread-29 : 127.0.0.1 - - [15/Dec/2022 08:14:42] "GET /login HTTP/1.1" 200 -
+2022-12-15 08:14:42,903 INFO werkzeug Thread-30 : 127.0.0.1 - - [15/Dec/2022 08:14:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 08:14:42,904 INFO werkzeug Thread-31 : 127.0.0.1 - - [15/Dec/2022 08:14:42] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:15:17,526 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 08:15:31,114 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 08:15:31] "GET / HTTP/1.1" 200 -
+2022-12-15 08:15:31,161 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 08:15:31] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 08:15:31,162 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 08:15:31] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 08:15:31,163 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 08:15:31] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 08:15:31,164 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 08:15:31] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:15:33,496 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 08:15:33] "GET /login HTTP/1.1" 200 -
+2022-12-15 08:15:33,527 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 08:15:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 08:15:33,530 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 08:15:33] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:15:37,825 ERROR app Thread-9 : Errorl evel log
+2022-12-15 08:15:37,836 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 08:15:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-12-15 08:15:37,840 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 08:15:37] "GET /login HTTP/1.1" 200 -
+2022-12-15 08:15:37,900 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 08:15:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 08:15:37,901 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 08:15:37] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:30:19,831 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 08:33:26,844 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 08:33:26] "GET / HTTP/1.1" 200 -
+2022-12-15 08:33:26,869 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 08:33:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:33:26,870 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 08:33:26] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 08:33:26,871 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 08:33:26] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 08:33:26,872 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 08:33:26] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 08:33:28,446 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 08:33:28] "GET /login HTTP/1.1" 200 -
+2022-12-15 08:33:28,467 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 08:33:28] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:33:28,467 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 08:33:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 08:33:33,304 INFO app Thread-9 : Login Success
+2022-12-15 08:33:33,306 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 08:33:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-12-15 08:33:33,358 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 08:33:33] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:33:33,421 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 08:33:33] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:33:33,428 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 08:33:33] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:33:33,447 INFO werkzeug Thread-13 : 127.0.0.1 - - [15/Dec/2022 08:33:33] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:33:33,456 INFO werkzeug Thread-14 : 127.0.0.1 - - [15/Dec/2022 08:33:33] "[36mGET /static/fontawesome-free-6.2.1-web/webfonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2022-12-15 08:33:33,460 INFO werkzeug Thread-15 : 127.0.0.1 - - [15/Dec/2022 08:33:33] "[36mGET /static/fontawesome-free-6.2.1-web/webfonts/fa-regular-400.woff2 HTTP/1.1[0m" 304 -
+2022-12-15 08:33:38,330 INFO app Thread-16 : Item Added To List
+2022-12-15 08:33:38,331 INFO werkzeug Thread-16 : 127.0.0.1 - - [15/Dec/2022 08:33:38] "[32mPOST /add_to_cart/1 HTTP/1.1[0m" 302 -
+2022-12-15 08:33:38,383 INFO werkzeug Thread-17 : 127.0.0.1 - - [15/Dec/2022 08:33:38] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:33:38,397 INFO werkzeug Thread-18 : 127.0.0.1 - - [15/Dec/2022 08:33:38] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:33:38,398 INFO werkzeug Thread-19 : 127.0.0.1 - - [15/Dec/2022 08:33:38] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:33:38,413 INFO werkzeug Thread-20 : 127.0.0.1 - - [15/Dec/2022 08:33:38] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:33:41,104 INFO werkzeug Thread-21 : 127.0.0.1 - - [15/Dec/2022 08:33:41] "GET /mc1 HTTP/1.1" 200 -
+2022-12-15 08:33:41,124 INFO werkzeug Thread-22 : 127.0.0.1 - - [15/Dec/2022 08:33:41] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:33:41,125 INFO werkzeug Thread-23 : 127.0.0.1 - - [15/Dec/2022 08:33:41] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:33:41,136 INFO werkzeug Thread-24 : 127.0.0.1 - - [15/Dec/2022 08:33:41] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:33:42,856 INFO app Thread-25 : Item Removed from List
+2022-12-15 08:33:42,856 INFO werkzeug Thread-25 : 127.0.0.1 - - [15/Dec/2022 08:33:42] "[32mPOST /remove_from_cart/1 HTTP/1.1[0m" 302 -
+2022-12-15 08:33:42,903 INFO werkzeug Thread-26 : 127.0.0.1 - - [15/Dec/2022 08:33:42] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:33:42,920 INFO werkzeug Thread-27 : 127.0.0.1 - - [15/Dec/2022 08:33:42] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:33:42,921 INFO werkzeug Thread-28 : 127.0.0.1 - - [15/Dec/2022 08:33:42] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:33:42,935 INFO werkzeug Thread-29 : 127.0.0.1 - - [15/Dec/2022 08:33:42] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:37:46,081 INFO app Thread-30 : Item Added To List
+2022-12-15 08:37:46,082 INFO werkzeug Thread-30 : 127.0.0.1 - - [15/Dec/2022 08:37:46] "[32mPOST /add_to_cart/1 HTTP/1.1[0m" 302 -
+2022-12-15 08:37:46,129 INFO werkzeug Thread-31 : 127.0.0.1 - - [15/Dec/2022 08:37:46] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:37:46,144 INFO werkzeug Thread-32 : 127.0.0.1 - - [15/Dec/2022 08:37:46] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:37:46,151 INFO werkzeug Thread-33 : 127.0.0.1 - - [15/Dec/2022 08:37:46] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:37:46,159 INFO werkzeug Thread-34 : 127.0.0.1 - - [15/Dec/2022 08:37:46] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:37:48,238 INFO werkzeug Thread-35 : 127.0.0.1 - - [15/Dec/2022 08:37:48] "GET /mc1 HTTP/1.1" 200 -
+2022-12-15 08:37:48,259 INFO werkzeug Thread-36 : 127.0.0.1 - - [15/Dec/2022 08:37:48] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:37:48,260 INFO werkzeug Thread-37 : 127.0.0.1 - - [15/Dec/2022 08:37:48] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:37:48,270 INFO werkzeug Thread-38 : 127.0.0.1 - - [15/Dec/2022 08:37:48] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:37:50,192 INFO app Thread-39 : Item Removed from List
+2022-12-15 08:37:50,193 INFO werkzeug Thread-39 : 127.0.0.1 - - [15/Dec/2022 08:37:50] "[32mPOST /remove_from_cart/1 HTTP/1.1[0m" 302 -
+2022-12-15 08:37:50,244 INFO werkzeug Thread-40 : 127.0.0.1 - - [15/Dec/2022 08:37:50] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:37:50,265 INFO werkzeug Thread-41 : 127.0.0.1 - - [15/Dec/2022 08:37:50] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:37:50,266 INFO werkzeug Thread-42 : 127.0.0.1 - - [15/Dec/2022 08:37:50] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:37:50,279 INFO werkzeug Thread-43 : 127.0.0.1 - - [15/Dec/2022 08:37:50] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:21,853 INFO app Thread-46 : Logged Out
+2022-12-15 08:44:21,864 INFO werkzeug Thread-46 : 127.0.0.1 - - [15/Dec/2022 08:44:21] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-12-15 08:44:21,868 INFO werkzeug Thread-47 : 127.0.0.1 - - [15/Dec/2022 08:44:21] "GET / HTTP/1.1" 200 -
+2022-12-15 08:44:21,891 INFO werkzeug Thread-48 : 127.0.0.1 - - [15/Dec/2022 08:44:21] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 08:44:21,891 INFO werkzeug Thread-49 : 127.0.0.1 - - [15/Dec/2022 08:44:21] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 08:44:21,892 INFO werkzeug Thread-50 : 127.0.0.1 - - [15/Dec/2022 08:44:21] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 08:44:21,893 INFO werkzeug Thread-51 : 127.0.0.1 - - [15/Dec/2022 08:44:21] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:44:24,333 INFO werkzeug Thread-52 : 127.0.0.1 - - [15/Dec/2022 08:44:24] "GET /create_account HTTP/1.1" 200 -
+2022-12-15 08:44:24,352 INFO werkzeug Thread-54 : 127.0.0.1 - - [15/Dec/2022 08:44:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 08:44:24,360 INFO werkzeug Thread-53 : 127.0.0.1 - - [15/Dec/2022 08:44:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 08:44:38,578 INFO app Thread-55 : Account Created
+2022-12-15 08:44:38,641 INFO werkzeug Thread-55 : 127.0.0.1 - - [15/Dec/2022 08:44:38] "[32mPOST /create_account HTTP/1.1[0m" 302 -
+2022-12-15 08:44:38,705 INFO werkzeug Thread-56 : 127.0.0.1 - - [15/Dec/2022 08:44:38] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:44:38,993 INFO werkzeug Thread-57 : 127.0.0.1 - - [15/Dec/2022 08:44:38] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:44:39,002 INFO werkzeug Thread-58 : 127.0.0.1 - - [15/Dec/2022 08:44:39] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:39,009 INFO werkzeug Thread-59 : 127.0.0.1 - - [15/Dec/2022 08:44:39] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:40,725 INFO app Thread-60 : Item Added To List
+2022-12-15 08:44:40,726 INFO werkzeug Thread-60 : 127.0.0.1 - - [15/Dec/2022 08:44:40] "[32mPOST /add_to_cart/1 HTTP/1.1[0m" 302 -
+2022-12-15 08:44:40,775 INFO werkzeug Thread-61 : 127.0.0.1 - - [15/Dec/2022 08:44:40] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:44:40,788 INFO werkzeug Thread-62 : 127.0.0.1 - - [15/Dec/2022 08:44:40] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:44:40,788 INFO werkzeug Thread-63 : 127.0.0.1 - - [15/Dec/2022 08:44:40] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:40,798 INFO werkzeug Thread-64 : 127.0.0.1 - - [15/Dec/2022 08:44:40] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:41,658 INFO werkzeug Thread-65 : 127.0.0.1 - - [15/Dec/2022 08:44:41] "GET /mc2 HTTP/1.1" 200 -
+2022-12-15 08:44:41,677 INFO werkzeug Thread-66 : 127.0.0.1 - - [15/Dec/2022 08:44:41] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:44:41,678 INFO werkzeug Thread-67 : 127.0.0.1 - - [15/Dec/2022 08:44:41] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:41,690 INFO werkzeug Thread-68 : 127.0.0.1 - - [15/Dec/2022 08:44:41] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:42,390 INFO app Thread-69 : Item Removed from List
+2022-12-15 08:44:42,390 INFO werkzeug Thread-69 : 127.0.0.1 - - [15/Dec/2022 08:44:42] "[32mPOST /remove_from_cart/1 HTTP/1.1[0m" 302 -
+2022-12-15 08:44:42,447 INFO werkzeug Thread-70 : 127.0.0.1 - - [15/Dec/2022 08:44:42] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 08:44:42,464 INFO werkzeug Thread-71 : 127.0.0.1 - - [15/Dec/2022 08:44:42] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 08:44:42,465 INFO werkzeug Thread-72 : 127.0.0.1 - - [15/Dec/2022 08:44:42] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 08:44:42,479 INFO werkzeug Thread-73 : 127.0.0.1 - - [15/Dec/2022 08:44:42] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 09:17:01,263 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:17:16,263 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 09:17:16] "GET / HTTP/1.1" 200 -
+2022-12-15 09:17:16,307 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 09:17:16] "GET /static/js/scripts.js HTTP/1.1" 200 -
+2022-12-15 09:17:16,339 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 09:17:16] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 09:17:16,340 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 09:17:16] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 09:17:16,341 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 09:17:16] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 09:17:16,414 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 09:17:16] "[33mGET /assets/favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 09:17:18,636 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 09:17:18] "GET /login HTTP/1.1" 200 -
+2022-12-15 09:17:18,673 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 09:17:18] "GET /static/css/styles.css HTTP/1.1" 200 -
+2022-12-15 09:17:18,674 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 09:17:18] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:17:18,791 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 09:17:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 09:17:28,860 ERROR app Thread-11 : Exception on /login/landing_page [POST]
+Traceback (most recent call last):
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+TypeError: login_cookie() missing 1 required positional argument: 'current_user'
+2022-12-15 09:17:28,864 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 09:17:28] "[35m[1mPOST /login/landing_page HTTP/1.1[0m" 500 -
+2022-12-15 09:18:33,546 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:18:53,031 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 09:18:53] "GET / HTTP/1.1" 200 -
+2022-12-15 09:18:53,057 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 09:18:53] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:18:53,057 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 09:18:53] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 09:18:53,058 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 09:18:53] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 09:18:53,059 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 09:18:53] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 09:18:55,162 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 09:18:55] "GET /login HTTP/1.1" 200 -
+2022-12-15 09:18:55,183 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 09:18:55] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:18:55,184 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 09:18:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:19:00,532 ERROR app Thread-9 : Exception on /login/landing_page [POST]
+Traceback (most recent call last):
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+TypeError: login_cookie() got an unexpected keyword argument 'landing_page'
+2022-12-15 09:19:00,535 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 09:19:00] "[35m[1mPOST /login/landing_page HTTP/1.1[0m" 500 -
+2022-12-15 09:20:22,672 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:20:34,894 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 09:20:34] "GET / HTTP/1.1" 200 -
+2022-12-15 09:20:34,913 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 09:20:34] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:20:34,913 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 09:20:34] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 09:20:34,915 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 09:20:34] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 09:20:34,916 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 09:20:34] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 09:20:37,219 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 09:20:37] "GET /login HTTP/1.1" 200 -
+2022-12-15 09:20:37,239 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 09:20:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:20:37,239 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 09:20:37] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:20:42,659 ERROR app Thread-9 : Exception on /login/landing_page [POST]
+Traceback (most recent call last):
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/cserv1_a/soc_msc/sc21ak/Webdev/cwk2/app/views.py", line 63, in login_cookie
+    value = landing_page,
+NameError: name 'landing_page' is not defined
+2022-12-15 09:20:42,665 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 09:20:42] "[35m[1mPOST /login/landing_page HTTP/1.1[0m" 500 -
+2022-12-15 09:21:34,529 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:21:59,540 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 09:21:59] "GET / HTTP/1.1" 200 -
+2022-12-15 09:21:59,563 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 09:21:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:21:59,564 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 09:21:59] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 09:21:59,564 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 09:21:59] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 09:21:59,565 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 09:21:59] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 09:22:03,121 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 09:22:03] "GET /login HTTP/1.1" 200 -
+2022-12-15 09:22:03,140 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 09:22:03] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:22:03,140 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 09:22:03] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:22:20,090 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 09:22:20] "[32mPOST /login/landing_page HTTP/1.1[0m" 302 -
+2022-12-15 09:22:20,093 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 09:22:20] "[32mGET /landing_page HTTP/1.1[0m" 302 -
+2022-12-15 09:22:20,097 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 09:22:20] "GET /login?next=%2Flanding_page HTTP/1.1" 200 -
+2022-12-15 09:22:20,170 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 09:22:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:22:20,171 INFO werkzeug Thread-13 : 127.0.0.1 - - [15/Dec/2022 09:22:20] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:22:32,848 INFO werkzeug Thread-14 : 127.0.0.1 - - [15/Dec/2022 09:22:32] "[32mPOST /login/landing_page HTTP/1.1[0m" 302 -
+2022-12-15 09:22:32,851 INFO werkzeug Thread-15 : 127.0.0.1 - - [15/Dec/2022 09:22:32] "[32mGET /landing_page HTTP/1.1[0m" 302 -
+2022-12-15 09:22:32,853 INFO werkzeug Thread-16 : 127.0.0.1 - - [15/Dec/2022 09:22:32] "GET /login?next=%2Flanding_page HTTP/1.1" 200 -
+2022-12-15 09:22:32,918 INFO werkzeug Thread-17 : 127.0.0.1 - - [15/Dec/2022 09:22:32] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:22:32,919 INFO werkzeug Thread-18 : 127.0.0.1 - - [15/Dec/2022 09:22:32] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:23:02,607 INFO werkzeug Thread-19 : 127.0.0.1 - - [15/Dec/2022 09:23:02] "[32mPOST /login/landing_page HTTP/1.1[0m" 302 -
+2022-12-15 09:23:02,610 INFO werkzeug Thread-20 : 127.0.0.1 - - [15/Dec/2022 09:23:02] "[32mGET /landing_page HTTP/1.1[0m" 302 -
+2022-12-15 09:23:02,622 INFO werkzeug Thread-21 : 127.0.0.1 - - [15/Dec/2022 09:23:02] "GET /login?next=%2Flanding_page HTTP/1.1" 200 -
+2022-12-15 09:23:02,679 INFO werkzeug Thread-22 : 127.0.0.1 - - [15/Dec/2022 09:23:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:23:02,679 INFO werkzeug Thread-23 : 127.0.0.1 - - [15/Dec/2022 09:23:02] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:23:58,046 INFO werkzeug Thread-24 : 127.0.0.1 - - [15/Dec/2022 09:23:58] "GET /login?next=%2Flanding_page HTTP/1.1" 200 -
+2022-12-15 09:23:58,082 INFO werkzeug Thread-25 : 127.0.0.1 - - [15/Dec/2022 09:23:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:23:58,082 INFO werkzeug Thread-26 : 127.0.0.1 - - [15/Dec/2022 09:23:58] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:24:04,593 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:24:19,479 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 09:24:19] "GET / HTTP/1.1" 200 -
+2022-12-15 09:24:19,520 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 09:24:19] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:24:19,522 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 09:24:19] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 09:24:19,524 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 09:24:19] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 09:24:19,525 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 09:24:19] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 09:24:26,127 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 09:24:26] "GET /login HTTP/1.1" 200 -
+2022-12-15 09:24:26,148 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 09:24:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:24:26,149 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 09:24:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:24:31,515 ERROR app Thread-9 : Exception on /login/landing_page [POST]
+Traceback (most recent call last):
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/cserv1_a/soc_msc/sc21ak/Webdev/cwk2/app/views.py", line 59, in login_cookie
+    login_user(user)
+NameError: name 'user' is not defined
+2022-12-15 09:24:31,527 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 09:24:31] "[35m[1mPOST /login/landing_page HTTP/1.1[0m" 500 -
+2022-12-15 09:25:45,712 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:25:59,688 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 09:25:59] "GET / HTTP/1.1" 200 -
+2022-12-15 09:25:59,721 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 09:25:59] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:25:59,721 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 09:25:59] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 09:25:59,722 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 09:25:59] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 09:25:59,723 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 09:25:59] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 09:26:01,910 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 09:26:01] "GET /login HTTP/1.1" 200 -
+2022-12-15 09:26:01,933 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 09:26:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:26:01,934 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 09:26:01] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:26:07,079 ERROR app Thread-9 : Exception on /login/landing_page [POST]
+Traceback (most recent call last):
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/cserv1_a/soc_msc/sc21ak/Webdev/cwk2/app/views.py", line 60, in login_cookie
+    login_user(user)
+  File "/home/cserv1_a/soc_msc/sc21ak/flask/lib/python3.6/site-packages/flask_login/utils.py", line 166, in login_user
+    if not force and not user.is_active:
+AttributeError: 'NoneType' object has no attribute 'is_active'
+2022-12-15 09:26:07,091 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 09:26:07] "[35m[1mPOST /login/landing_page HTTP/1.1[0m" 500 -
+2022-12-15 09:33:21,361 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:34:31,748 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 09:35:04,591 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 09:35:04] "GET / HTTP/1.1" 200 -
+2022-12-15 09:35:04,619 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 09:35:04] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:35:04,620 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 09:35:04] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 09:35:04,620 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 09:35:04] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 09:35:04,621 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 09:35:04] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 09:35:06,985 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 09:35:06] "GET /login HTTP/1.1" 200 -
+2022-12-15 09:35:07,013 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 09:35:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 09:35:07,013 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 09:35:07] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 09:35:13,898 INFO app Thread-9 : Login Success
+2022-12-15 09:35:13,901 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 09:35:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-12-15 09:35:13,960 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 09:35:13] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 09:35:14,067 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 09:35:14] "GET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1" 200 -
+2022-12-15 09:35:14,082 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 09:35:14] "[33mGET /None HTTP/1.1[0m" 404 -
+2022-12-15 09:35:14,095 INFO werkzeug Thread-13 : 127.0.0.1 - - [15/Dec/2022 09:35:14] "GET /static/fontawesome-free-6.2.1-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2022-12-15 09:35:14,095 INFO werkzeug Thread-14 : 127.0.0.1 - - [15/Dec/2022 09:35:14] "GET /static/fontawesome-free-6.2.1-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 -
+2022-12-15 13:59:12,122 INFO werkzeug MainThread :  * Detected change in '/home/cserv1_a/soc_msc/sc21ak/Webdev/cwk2/app/__init__.py', reloading
+2022-12-15 13:59:22,884 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 13:59:22] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 13:59:22,900 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 13:59:22] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 13:59:22,913 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 13:59:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 13:59:24,103 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 13:59:24] "GET /landing_page HTTP/1.1" 200 -
+2022-12-15 13:59:24,119 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 13:59:24] "[36mGET /static/fontawesome-free-6.2.1-web/css/all.css HTTP/1.1[0m" 304 -
+2022-12-15 13:59:24,122 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 13:59:24] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 13:59:26,458 INFO app Thread-9 : Logged Out
+2022-12-15 13:59:26,462 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 13:59:26] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-12-15 13:59:26,472 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 13:59:26] "GET / HTTP/1.1" 200 -
+2022-12-15 13:59:26,495 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 13:59:26] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 13:59:26,495 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 13:59:26] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 13:59:26,497 INFO werkzeug Thread-13 : 127.0.0.1 - - [15/Dec/2022 13:59:26] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 13:59:26,497 INFO werkzeug Thread-14 : 127.0.0.1 - - [15/Dec/2022 13:59:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 13:59:26,537 INFO werkzeug Thread-15 : 127.0.0.1 - - [15/Dec/2022 13:59:26] "[33mGET /assets/favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 20:19:13,145 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 20:20:32,684 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-12-15 20:20:50,821 INFO werkzeug Thread-1 : 127.0.0.1 - - [15/Dec/2022 20:20:50] "GET / HTTP/1.1" 200 -
+2022-12-15 20:20:50,889 INFO werkzeug Thread-2 : 127.0.0.1 - - [15/Dec/2022 20:20:50] "GET /static/js/scripts.js HTTP/1.1" 200 -
+2022-12-15 20:20:50,950 INFO werkzeug Thread-3 : 127.0.0.1 - - [15/Dec/2022 20:20:50] "GET /static/bags.jpg HTTP/1.1" 200 -
+2022-12-15 20:20:50,953 INFO werkzeug Thread-4 : 127.0.0.1 - - [15/Dec/2022 20:20:50] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 20:20:50,983 INFO werkzeug Thread-5 : 127.0.0.1 - - [15/Dec/2022 20:20:50] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 20:20:51,242 INFO werkzeug Thread-6 : 127.0.0.1 - - [15/Dec/2022 20:20:51] "[33mGET /assets/favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 20:20:53,347 INFO werkzeug Thread-7 : 127.0.0.1 - - [15/Dec/2022 20:20:53] "GET /create_account HTTP/1.1" 200 -
+2022-12-15 20:20:53,375 INFO werkzeug Thread-9 : 127.0.0.1 - - [15/Dec/2022 20:20:53] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 20:20:53,401 INFO werkzeug Thread-8 : 127.0.0.1 - - [15/Dec/2022 20:20:53] "GET /static/css/styles.css HTTP/1.1" 200 -
+2022-12-15 20:20:53,427 INFO werkzeug Thread-10 : 127.0.0.1 - - [15/Dec/2022 20:20:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-12-15 20:20:54,813 INFO werkzeug Thread-11 : 127.0.0.1 - - [15/Dec/2022 20:20:54] "GET /login HTTP/1.1" 200 -
+2022-12-15 20:20:54,845 INFO werkzeug Thread-12 : 127.0.0.1 - - [15/Dec/2022 20:20:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2022-12-15 20:20:54,846 INFO werkzeug Thread-13 : 127.0.0.1 - - [15/Dec/2022 20:20:54] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -
+2022-12-15 20:25:34,464 INFO werkzeug Thread-15 : 127.0.0.1 - - [15/Dec/2022 20:25:34] "GET / HTTP/1.1" 200 -
+2022-12-15 20:25:34,475 INFO werkzeug Thread-16 : 127.0.0.1 - - [15/Dec/2022 20:25:34] "GET /static/js/scripts.js HTTP/1.1" 200 -
+2022-12-15 20:25:34,534 INFO werkzeug Thread-17 : 127.0.0.1 - - [15/Dec/2022 20:25:34] "GET /static/sld3.jpg HTTP/1.1" 200 -
+2022-12-15 20:25:34,535 INFO werkzeug Thread-18 : 127.0.0.1 - - [15/Dec/2022 20:25:34] "GET /static/sld2.jpg HTTP/1.1" 200 -
+2022-12-15 20:25:34,535 INFO werkzeug Thread-19 : 127.0.0.1 - - [15/Dec/2022 20:25:34] "GET /static/bags.jpg HTTP/1.1" 200 -
